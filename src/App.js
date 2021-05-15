@@ -5,8 +5,6 @@ import './index.css';
 import WbSunnyIcon from '@material-ui/icons/WbSunny';
 import Brightness3Icon from '@material-ui/icons/Brightness3';
 
-const FEATURED_API = "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=31234ff7106c552e41d3814035b45aca&page=1";
-const SEARCH_API = "https://api.themoviedb.org/3/search/movie?&api_key=31234ff7106c552e41d3814035b45aca&query=";
 
 function App() {
 
